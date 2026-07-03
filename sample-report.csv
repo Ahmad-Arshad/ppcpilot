@@ -1,0 +1,6 @@
+Campaign Name,Ad Group Name,Keyword,Customer Search Term,Match Type,Impressions,Clicks,Spend,Sales,Orders
+Auto Campaign,Auto Ad Group,,stainless steel water bottle,,5000,40,18,120,6
+Auto Campaign,Auto Ad Group,,kids plastic bottle,,3000,25,15,0,0
+Broad Campaign,Broad Ad Group,water bottle,gym water bottle,broad,2500,20,10,60,3
+Exact Campaign,Exact Ad Group,steel flask,steel flask,exact,1500,15,6,80,4
+Broad Campaign,Broad Ad Group,bottle,cheap bottle,broad,2000,22,13,0,0

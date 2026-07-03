@@ -1,0 +1,15 @@
+services:
+  postgres:
+    image: postgres:16
+    container_name: ppcpilot_postgres
+    environment:
+      POSTGRES_DB: ppcpilot
+      POSTGRES_USER: ppcpilot
+      POSTGRES_PASSWORD: ppcpilot
+    ports:
+      - "5432:5432"
+    volumes:
+      - ppcpilot_postgres_data:/var/lib/postgresql/data
+
+volumes:
+  ppcpilot_postgres_data:
